@@ -20,6 +20,7 @@ Movies are often reflective of society, so when certain genres become popular, i
 Tools Used:
 * TMDb API
 * Unofficial BoxOffice Mojo API
+* Academy Awards database
 * Kaggle dataset (for Golden Globes data)
 * 'pandas' python library
 * 'matplotlib' python library
